@@ -1,0 +1,6 @@
+﻿id;name;author;year_published;price;is_new;short_anotation
+1;Book1;Author1;1991;1000;no;short_anotation1
+2;Book2;Author2;1992;1500;no;short_anotation2
+4;Book4;Author4;9000OE;90000000;no;short_anotation4
+5;Book5;Author5;1333;123;no;short_anotation5
+;;;;;;
